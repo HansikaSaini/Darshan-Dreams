@@ -16,9 +16,6 @@ This project serves as:
 
 - A **portfolio piece** to demonstrate my front-end development skills, creativity, and attention to detail.  
 
-## 🎥 Demo  
-
-Experience the website live: 
 
 ## 🛠️ Technologies  
 
@@ -26,3 +23,10 @@ Experience the website live:
 - **CSS3**: Designing the layout, styling, and adding animations.  
 - **JavaScript**: Enhancing interactivity and transitions.  
  
+Some Images of the Site:
+
+![Screenshot 2024-11-15 203720](https://github.com/user-attachments/assets/09c58b46-04ec-4564-abe1-a0078f96da03)
+
+![Screenshot 2024-11-15 203751](https://github.com/user-attachments/assets/f95401ab-b3ab-4c3a-93b2-2d7c4697c2aa)
+
+
